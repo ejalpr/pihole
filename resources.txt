@@ -24,7 +24,6 @@ js.moatads.com
 log.spotify.com
 media-match.com
 omaze.com
-open.spotify.com
 pagead46.l.doubleclick.net
 pagead2.googlesyndication.com
 partner.googleadservices.com
@@ -40,4 +39,3 @@ weblb-wg.gslb.spotify.com
 www.googleadservices.com
 www.googletagservices.com
 www.omaze.com
-stuff.wesleighanderson.com
